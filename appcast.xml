@@ -3,12 +3,12 @@
     <channel>
         <title>ZhareHub</title>
         <item>
-            <title>1.0.0-Beta4</title>
-            <pubDate>Wed, 29 Jan 2025 15:16:48 +0530</pubDate>
-            <sparkle:version>1004</sparkle:version>
-            <sparkle:shortVersionString>1.0.0-Beta4</sparkle:shortVersionString>
+            <title>1.0.0-Beta5</title>
+            <pubDate>Wed, 29 Jan 2025 15:37:32 +0530</pubDate>
+            <sparkle:version>1005</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-Beta5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hariharan-rs-19343/SparkleUpdateChecker/releases/download/production/ZhareHub.dmg" length="8817878" type="application/octet-stream" sparkle:edSignature="E7msn7b9Mj3K2PT/H3t5Bev6958odM983/ok3mT3RZewhnsgkWI8uRP+1L/gyvfiiY8PvnZQNae6Ucbbeqg7Cw=="/>
+            <enclosure url="https://github.com/hariharan-rs-19343/SparkleUpdateChecker/releases/download/v1.0.0_Beta5/ZhareHub.dmg" length="8817970" type="application/octet-stream" sparkle:edSignature="FQGMCaiXyCRQYheUVb9EWSfZus+gHhy4d8OFvhp5rSIP0hp3LbHgvGc+MQiHJO9zEsWNIKeAnZHTP9WK+niTDw=="/>
         </item>
     </channel>
 </rss>
